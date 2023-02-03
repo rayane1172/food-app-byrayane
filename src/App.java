@@ -98,19 +98,5 @@ public class App {
         System.out.println("-----------Well ,have a good day-----------");
    
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    }
+  }
 }
